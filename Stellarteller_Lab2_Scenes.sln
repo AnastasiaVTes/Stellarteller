@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stellarteller_Lab2_Scenes.CSharp", "Stellarteller_Lab2_Scenes.CSharp.csproj", "{079AB885-4556-24E2-CBC1-2590E9906F82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stellarteller_Lab2_Scenes.CSharp.Plugins", "Stellarteller_Lab2_Scenes.CSharp.Plugins.csproj", "{D223D963-C5AB-63D3-7025-69C72EB75B76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stellarteller_Lab2_Scenes.CSharp.Editor.Plugins", "Stellarteller_Lab2_Scenes.CSharp.Editor.Plugins.csproj", "{8D5EFCA6-1F4B-30DF-9B77-4EABDCE57F75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stellarteller_Lab2_Scenes.CSharp.Editor", "Stellarteller_Lab2_Scenes.CSharp.Editor.csproj", "{576105C7-B90F-FD54-0113-1A2C19803B30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{079AB885-4556-24E2-CBC1-2590E9906F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{079AB885-4556-24E2-CBC1-2590E9906F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{079AB885-4556-24E2-CBC1-2590E9906F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{079AB885-4556-24E2-CBC1-2590E9906F82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D223D963-C5AB-63D3-7025-69C72EB75B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D223D963-C5AB-63D3-7025-69C72EB75B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D223D963-C5AB-63D3-7025-69C72EB75B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D223D963-C5AB-63D3-7025-69C72EB75B76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D5EFCA6-1F4B-30DF-9B77-4EABDCE57F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D5EFCA6-1F4B-30DF-9B77-4EABDCE57F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D5EFCA6-1F4B-30DF-9B77-4EABDCE57F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D5EFCA6-1F4B-30DF-9B77-4EABDCE57F75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{576105C7-B90F-FD54-0113-1A2C19803B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576105C7-B90F-FD54-0113-1A2C19803B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576105C7-B90F-FD54-0113-1A2C19803B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576105C7-B90F-FD54-0113-1A2C19803B30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

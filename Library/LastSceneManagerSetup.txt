@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MY SCENES/Sol_System_Galaxy.unity
+  isLoaded: 1
+  isActive: 1
